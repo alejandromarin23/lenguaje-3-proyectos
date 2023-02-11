@@ -1,4 +1,0 @@
-﻿Operación Compilar iniciada..
-1>------ Operación Compilar iniciada: proyecto: Ejercicios LP3, configuración: Debug Any CPU ------
-1>C:\Users\anto_\Desktop\progra 3 actual\lenguaje-3-proyectos\Ejercicios LP3\Ejercicios LP3\Form1.Designer.cs(115,59,115,82): error CS0407: 'Task Form1.button1_ClickAsync(object, EventArgs)' tiene un tipo de valor devuelto equivocado
-========== Compilar: 0 correctos, 1 incorrectos, 0 actualizados, 0 omitidos ==========
